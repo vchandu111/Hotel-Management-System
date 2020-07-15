@@ -20,3 +20,6 @@
  
  ### Blog Page:
  - Latest News, recent posts and instagram feed about the hotel has been displayed.
+ 
+ ### Sign Up & Sign In Pages:
+ - The registration page uses local Storage for successful login.
