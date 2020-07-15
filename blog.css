@@ -1,0 +1,104 @@
+* {
+  font-family: sans-serif;
+}
+
+.nav-bg {
+  background-image: url(Resources/banner.png);
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 450px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 34px 16px;
+  text-decoration: none;
+  margin-left: 100px;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+.blog {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 100px;
+}
+
+.font_head {
+  font-size: 23px;
+}
+.badge {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.text-head {
+  font-size: 22px;
+  color: teal;
+  font-weight: bold;
+}
+.fa-acc {
+  color: teal;
+}
+
+.fa-comments {
+  color: yellowgreen;
+}
+
+.bg_img1 {
+  background-image: url(Resources/footer-bg.jpg);
+  color: grey;
+  height: 350px;
+  padding-top: 50px;
+  border-radius: 10px;
+  background-size: cover;
+  width: auto;
+}
+
+.main_logo {
+  font-family: Magneto;
+  color: teal;
+  font-size: 30px;
+}
+
+.ph {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.fa-fb {
+  color: #3b5998;
+}
+.fa-tw {
+  color: #00acee;
+}
+.fa-y {
+  color: #0e76a8;
+}
+
+.fa-ut {
+  color: #ff0000;
+}
+
+.names {
+  font-family: cursive;
+  color: blanchedalmond;
+}

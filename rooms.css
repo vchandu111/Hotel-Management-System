@@ -1,0 +1,126 @@
+.roombg {
+  height: 400px;
+  background-image: url(Resources/bradcam2.png);
+}
+
+.note {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 90px;
+}
+
+#cursive {
+  font-family: Mistral;
+  font-size: 40px;
+  text-align: center;
+  color: skyblue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-left: 40px;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+a {
+  color: whitesmoke;
+}
+
+.logo {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.fa-fb {
+  color: #3b5998;
+}
+.fa-tw {
+  color: #00acee;
+}
+.fa-y {
+  color: #0e76a8;
+}
+
+.fa-ut {
+  color: #ff0000;
+}
+
+.fa-logo {
+  color: tomato;
+  height: 100px;
+}
+
+.shadow {
+  text-shadow: 2px 2px 4px white;
+}
+
+.logo_color {
+  color: yellow;
+}
+
+.mist {
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 10px;
+  font-family: Mistral;
+  color: teal;
+  font-size: 40px;
+}
+
+.col1 {
+  color: teal;
+  font-size: 20px;
+}
+
+.col2 {
+  font-size: 20px;
+  color: sienna;
+}
+
+.bg_img1 {
+  background-image: url(Resources/footer-bg.jpg);
+  color: grey;
+  height: 350px;
+  padding-top: 50px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.ph {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.input {
+  border-radius: 20px;
+  background-color: rgb(73, 66, 66);
+  width: 300px;
+  border: rgb(65, 62, 62);
+}
+
+.gradient {
+  background-image: linear-gradient(
+    to right,
+    #314755 0%,
+    #26a0da 51%,
+    #314755 100%
+  );
+}
+.btn-grad:hover {
+  background-position: right center;
+}
+
+.names {
+  font-family: cursive;
+  color: blanchedalmond;
+}
