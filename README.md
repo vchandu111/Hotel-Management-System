@@ -17,3 +17,6 @@
  
  ### Rooms Page:
  - Detailed description of each type of room has been displayed.
+ 
+ ### Blog Page:
+ - Latest News, recent posts and instagram feed about the hotel has been displayed.
