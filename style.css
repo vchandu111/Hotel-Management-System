@@ -1,0 +1,295 @@
+hr.new {
+	border-top: 1px dotted whitesmoke;
+}
+.fa-fb {
+	color: #3b5998;
+}
+.fa-tw {
+	color: #00acee;
+}
+.fa-y {
+	color: #0e76a8;
+}
+
+.fa-ut {
+	color: #ff0000;
+}
+
+.logo {
+	color: white;
+	font-family: Magneto;
+	font-size: 30px;
+}
+
+.heading {
+	margin-top: 150px;
+	margin-right: 400px;
+	font-size: 80px;
+	font-weight: lighter;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.about {
+	color: teal;
+	font-family: cursive;
+	font-size: 40px;
+}
+
+.welcome {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.about_text {
+	font-size: 20px;
+	line-height: 35px;
+}
+
+.about_img {
+	height: 200px;
+}
+
+.fs {
+	font-size: small;
+}
+
+.mist {
+	font-weight: normal;
+	text-align: center;
+	margin-bottom: 10px;
+	font-family: Mistral;
+	color: teal;
+	font-size: 40px;
+}
+
+.col1 {
+	color: teal;
+	font-size: 20px;
+}
+
+.col2 {
+	font-size: 20px;
+	color: sienna;
+}
+
+.rest {
+	color: teal;
+	font-family: Lucida Calligraphy;
+}
+
+.items {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: teal;
+}
+
+.teal {
+	color: teal;
+}
+
+.virat {
+	border-radius: 10px;
+}
+
+.cust {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 30px;
+}
+
+.say {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.cust_review {
+	line-height: 40px;
+}
+
+.facilities_item p {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0px;
+}
+
+.section_title {
+	margin-bottom: 75px;
+}
+
+.section_title h2 {
+	font-size: 36px;
+	line-height: 45px;
+	font-weight: 600;
+}
+
+.person {
+	color: orange;
+	font-size: 20px;
+}
+
+.blog {
+	color: teal;
+	text-align: center;
+	font-size: 35px;
+	font-family: Lucida Calligraphy;
+	margin-bottom: 15px;
+}
+
+.blog_2 {
+	height: 90px;
+	width: 90px;
+	border-radius: 45px;
+	margin-left: 35px;
+	margin-top: 25px;
+}
+
+.blog_text {
+	font-family: Helvetica, sans-serif;
+	font-size: 25px;
+	color: teal;
+}
+
+.graph {
+	color: teal;
+	text-align: center;
+	font-size: 35px;
+	font-family: Lucida Calligraphy;
+	margin-bottom: 25px;
+}
+
+.bg_img {
+	height: 200px;
+	background-color: thistle;
+	background-image: url(Resources/1.jpg);
+	background-size: cover;
+}
+
+.btn_left {
+	color: white;
+	padding-top: 50px;
+}
+
+.pad {
+	padding-top: 10px;
+}
+
+.icon {
+	height: 45px;
+}
+
+.fo {
+	font-size: 15px;
+}
+
+.bg_img1 {
+	background-image: url(Resources/footer-bg.jpg);
+	color: grey;
+	height: 350px;
+	padding-top: 50px;
+	border-radius: 10px;
+	background-size: cover;
+	width: auto;
+}
+
+.section_title p {
+	font-size: 14px;
+	line-height: 30px;
+	color: #777777;
+	margin-bottom: 0px;
+}
+
+.title_color {
+	color: #222222;
+}
+
+.title_w {
+	color: #fff;
+	font-size: 35px;
+}
+
+.title {
+	font-size: 36px;
+	line-height: 45px;
+	font-weight: 600;
+}
+
+.main_logo {
+	font-family: Magneto;
+	color: teal;
+	font-size: 30px;
+}
+
+.ph {
+	color: whitesmoke;
+	font-size: 20px;
+}
+
+.input {
+	border-radius: 20px;
+	background-color: rgb(73, 66, 66);
+	width: 300px;
+	border: rgb(65, 62, 62);
+}
+
+.navl {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	margin-left: 20px;
+}
+
+.facilities_area {
+	position: relative;
+	z-index: 1;
+	background: #04091e;
+	overflow: hidden;
+}
+
+.facilities_area .bg-parallax {
+	background: url("Resources/n1.jfif") no-repeat scroll center 0/cover;
+	opacity: 0.15;
+}
+
+.section_gap {
+	padding: 120px 0;
+}
+
+.sec_h4 {
+	font-size: 18px;
+	line-height: 38px;
+	font-weight: 600;
+	color: #222222;
+	margin-bottom: 0px;
+}
+.overlay {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 125%;
+	bottom: 0;
+	z-index: -1;
+}
+
+.facilities_item {
+	border: 1px solid #777777;
+	border-radius: 10px;
+	background-color: rgba(249, 249, 255, 0.102);
+	padding: 31px 40px 37px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+.facilities_item .sec_h4 {
+	padding-bottom: 18px;
+	color: #fff;
+}
+
+.facilities_item .sec_h4 i {
+	color: yellow;
+	font-size: 24px;
+	line-height: 38px;
+	display: inline-block;
+	vertical-align: bottom;
+	padding-right: 20px;
+}
