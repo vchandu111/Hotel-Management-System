@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/683b4b40e3.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="signup.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-7 bg"></div>
+      <div class="col-5">
+        <h1 class="mt-1 mb-3 top text-bolder text_signup"><u>Sign Up</u></h1>
+
+        <form name="register">
+          <div class="form-group">
+            <label for="name" class="text">Full Name </label>
+            <input type="name" class="form-control" id="name" aria-describedby="emailHelp" />
+          </div>
+          <div class="form-group">
+            <label for="exampleInputEmail1" class="text">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
+            <small id="emailHelp" class="form-text text-muted mb-4">We'll never share your email with anyone
+              else.</small>
+          </div>
+          <div class="form-group">
+            <label for="username" class="text">User Name</label>
+            <input type="email" class="form-control mb-4" id="username" aria-describedby="emailHelp" />
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1" class="text">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" />
+          </div>
+          <small class="text-muted mb-5">By clicking Sign Up, you agree to our Terms, Data Policy and
+            Cookie Policy. You may receive SMS notifications from us and can
+            opt out at any time.</small>
+          <div class="row">
+            <div class="col-6">
+              <button type="submit" class="btn btn-block mt-5 text-bold btn-grad text" data-toggle="modal"
+                data-target="#staticBackdrop" id="register">
+                Sign Up
+              </button>
+
+              <!-- Modal -->
+              <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1"
+                role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header btn-grad">
+                      <h5 class="modal-title" id="staticBackdropLabel">
+                        Registered
+                      </h5>
+                      <button type="button" class="close" data-dismiss="modal" data-focus="true" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <p class="modalText text-success font-weight-bold"></p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        Close
+                      </button>
+                      <button type="button" class="btn btn-primary signIn">
+                        Sign In
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-6">
+              <button type="submit" class="btn btn-block mt-5 text-bold btn-grad">
+                <a class="text-white" href="signin.html">Log In</a>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="signup.js"></script>
+</body>
+
+</html>
+
+<!--By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive SMS notifications from us and can opt out at any time.
+
+-->
+<!--<button type="submit" class="btn btn-info btn-block mt-5 text-bold col-6">Sign Up</button>
+                    <button type="submit" class="btn btn-info btn-block mt-5 text-bold col-6">Sign Up</button>-->
