@@ -1,104 +1,113 @@
 * {
-  font-family: sans-serif;
+	font-family: sans-serif;
 }
 
 .nav-bg {
-  background-image: url(Resources/banner.png);
-  height: 500px;
-  width: 100%;
-  background-size: cover;
+	background-image: url(Resources/banner.png);
+	height: 500px;
+	width: 100%;
+	background-size: cover;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  margin-left: 450px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	margin-left: 450px;
+}
+
+.logo {
+	color: white;
+	font-family: Magneto;
+	font-size: 30px;
+	margin-top: 15px;
 }
 
 li {
-  float: left;
+	float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 34px 16px;
-  text-decoration: none;
-  margin-left: 100px;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 34px 16px;
+	text-decoration: none;
+	margin-left: 100px;
 }
 
 li a:hover {
-  background-color: white;
+	background-color: white;
 }
 
 .blog {
-  text-align: center;
-  color: whitesmoke;
-  font-size: 80px;
-  font-family: Arial, Helvetica, sans-serif;
-  margin-top: 100px;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 100px;
 }
 
 .font_head {
-  font-size: 23px;
+	font-size: 23px;
+	color: teal;
+	font-weight: bold;
 }
 .badge {
-  margin-left: 10px;
-  margin-top: 15px;
+	margin-left: 10px;
+	margin-top: 15px;
 }
 
 .text-head {
-  font-size: 22px;
-  color: teal;
-  font-weight: bold;
+	font-size: 22px;
+	color: teal;
+	font-weight: bold;
 }
 .fa-acc {
-  color: teal;
+	color: teal;
 }
 
 .fa-comments {
-  color: yellowgreen;
+	color: yellowgreen;
 }
 
 .bg_img1 {
-  background-image: url(Resources/footer-bg.jpg);
-  color: grey;
-  height: 350px;
-  padding-top: 50px;
-  border-radius: 10px;
-  background-size: cover;
-  width: auto;
+	background-image: url(Resources/footer-bg.jpg);
+	color: grey;
+	height: 350px;
+	padding-top: 50px;
+	border-radius: 10px;
+	background-size: cover;
+	width: auto;
 }
 
 .main_logo {
-  font-family: Magneto;
-  color: teal;
-  font-size: 30px;
+	font-family: Magneto;
+	color: teal;
+	font-size: 30px;
 }
 
 .ph {
-  color: whitesmoke;
-  font-size: 20px;
+	color: whitesmoke;
+	font-size: 20px;
 }
 
 .fa-fb {
-  color: #3b5998;
+	color: #3b5998;
 }
 .fa-tw {
-  color: #00acee;
+	color: #00acee;
 }
 .fa-y {
-  color: #0e76a8;
+	color: #0e76a8;
 }
 
 .fa-ut {
-  color: #ff0000;
+	color: #ff0000;
 }
 
 .names {
-  font-family: cursive;
-  color: blanchedalmond;
+	font-family: cursive;
+	color: blanchedalmond;
 }
