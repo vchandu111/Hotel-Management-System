@@ -17,7 +17,6 @@ for ( let index = 0; index < toBill.length; index++ ) {
         //console.log( details )
 
         localStorage.setItem( 'amount', JSON.stringify( details ) )
-        //console.log( typeof money )
         location.href = 'billing.html'
     } )
 }
