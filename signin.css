@@ -7,36 +7,16 @@
 .bg {
 	background-image: url(Resources/siginin.jpg);
 	background-size: cover;
-	height: 800px;
-}
-.bg {
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	width: calc(100% - 520px);
-	position: relative;
-	z-index: 1;
-}
-
-.bg::before {
-	content: "";
-	display: block;
-	position: absolute;
-	z-index: -1;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	background: #e8519e;
-	background: -webkit-linear-gradient(bottom, #e8519e, #c77ff2);
-	background: -o-linear-gradient(bottom, #e8519e, #c77ff2);
-	background: -moz-linear-gradient(bottom, #e8519e, #c77ff2);
-	background: linear-gradient(bottom, #e8519e, #c77ff2);
-	opacity: 0.8;
+	height: 550px;
+	margin-top: 60px;
 }
 
 .text_acc {
 	color: #00bcd4;
+}
+
+.bg_text {
+	font-size: 20px;
 }
 
 .text {

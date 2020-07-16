@@ -52,6 +52,23 @@
 	background-position: right center;
 }
 
+.bg_text {
+	font-size: 25px;
+	color: whitesmoke;
+	padding-top: 230px;
+	padding-left: 180px;
+}
+
+.quote-head {
+	color: aquamarine;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: mistral;
+}
+
+text-width {
+	width: 100px;
+}
 .fa-fb {
 	color: #3b5998;
 	padding-left: 165px;
@@ -68,4 +85,8 @@
 	color: teal;
 	font-weight: bold;
 	text-align: center;
+}
+
+.fa-color {
+	color: teal;
 }
