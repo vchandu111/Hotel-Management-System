@@ -19,13 +19,10 @@
  
  ### Rooms Page:
  - Detailed description of each type of room has been displayed.
- <img width="929" alt="Screenshot (640)" src="https://user-images.githubusercontent.com/63995316/87626249-85d39f00-c749-11ea-9ecf-0c5a4bb7e01a.png">
  
  ### Blog Page:
  - Latest News, recent posts and instagram feed about the hotel has been displayed.
  
  ### Sign Up & Sign In Pages:
  - The registration page uses local Storage for successful login.
- <img width="753" alt="Screenshot (641)" src="https://user-images.githubusercontent.com/63995316/87626273-984dd880-c749-11ea-9816-bfd0b82768a8.png">
- <img width="846" alt="Screenshot (643)" src="https://user-images.githubusercontent.com/63995316/87626277-9a179c00-c749-11ea-91b0-e9100922ab0e.png">
 
