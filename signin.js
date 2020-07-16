@@ -2,8 +2,8 @@ var login = document.getElementById( 'login' )
 
 login.addEventListener( 'click', () => {
     event.preventDefault()
-    let name = document.getElementById( 'username' ).value
-    let password = document.getElementById( 'exampleInputPassword1' ).value
+    const name = document.getElementById( 'username' ).value
+    const password = document.getElementById( 'exampleInputPassword1' ).value
     let userInfo = {}
     userInfo.username = name
     userInfo.password = password
@@ -28,5 +28,4 @@ login.addEventListener( 'click', () => {
             index++
         }
     }
-    name.textContent = ''
 } )

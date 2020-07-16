@@ -61,11 +61,14 @@ userDetails = () => {
     userInfo.append( table )
 }
 
+userDetails()
+
 booking = () => {
     var bookingDetails = document.getElementById( 'bookingDetails' )
 
 }
 
+booking()
 
 
 
