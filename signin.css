@@ -49,3 +49,21 @@
 	background-image: linear-gradient(45deg, #642b73 0%, #c6426e 51%, #642b73 100%);
 	color: whitesmoke;
 }
+
+.fa-fb {
+	color: #3b5998;
+	padding-left: 165px;
+	height: 40px;
+}
+.fa-tw {
+	color: #00acee;
+}
+
+.fa-go {
+	color: #ea4335;
+}
+.allign {
+	color: teal;
+	font-weight: bold;
+	text-align: center;
+}

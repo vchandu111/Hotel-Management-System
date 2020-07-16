@@ -51,3 +51,21 @@
 .btn-grad:hover {
 	background-position: right center;
 }
+
+.fa-fb {
+	color: #3b5998;
+	padding-left: 165px;
+	height: 40px;
+}
+.fa-tw {
+	color: #00acee;
+}
+
+.fa-go {
+	color: #ea4335;
+}
+.allign {
+	color: teal;
+	font-weight: bold;
+	text-align: center;
+}
