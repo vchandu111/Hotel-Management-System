@@ -293,3 +293,8 @@ hr.new {
 	vertical-align: bottom;
 	padding-right: 20px;
 }
+
+.names {
+	font-family: cursive;
+	color: blanchedalmond;
+}
