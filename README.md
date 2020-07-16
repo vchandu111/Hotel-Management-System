@@ -36,5 +36,6 @@
  ### Billing Page:
  - The basic information is taken from the customer and the acknowledment slip is displayed using modal. 
  <img width="598" alt="Screenshot (644)" src="https://user-images.githubusercontent.com/63995316/87635401-98a39f00-c75c-11ea-8a52-b2a8de9a70c5.png">
- 
+
+## Designed By Chandra Sekhar ( @vchandu111 ) & Akhila (@AkhilaG28)
 
