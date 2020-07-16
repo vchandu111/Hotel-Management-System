@@ -1,0 +1,60 @@
+.bg-bill {
+  background-image: url(Resources/billing.jfif);
+  background-size: contain;
+  height: 600px;
+}
+
+.heightOfModal {
+  height: 90%;
+}
+
+.bill {
+  font-size: 35px;
+  color: teal;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.details {
+  font-size: 15px;
+  color: teal;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.gradient {
+  background-image: linear-gradient(
+    to right,
+    #642b73 0%,
+    #c6426e 51%,
+    #642b73 100%
+  );
+  color: whitesmoke;
+}
+
+.display > div {
+  line-height: 35px;
+  font-size: 20px;
+  color: royalblue;
+}
+
+.hirato {
+  font-family: Magneto;
+  color: whitesmoke;
+  font-size: 30px;
+  text-align: center;
+}
+
+.sideHeads {
+  font-size: 24px;
+  font-family: forte;
+  color: #c6426e;
+}
+
+.sideData {
+  font-size: 20px;
+  color: teal;
+}
