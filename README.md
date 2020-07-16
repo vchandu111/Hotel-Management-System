@@ -15,6 +15,8 @@
 - Overview of the hotel and the services- rooms, royal facilities, restaurant, news & events. 
 - The statistics of the hotel growth in terms of the number of branches it has built over the years has been showcased with the help of chart.js library in the form of a bar graph and the popularity of the hotel has been displayed using line graph.
 
+
+
  ### Rooms Page:
  - Detailed description of each type of room has been displayed.
  
